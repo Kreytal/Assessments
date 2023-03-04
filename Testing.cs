@@ -12,6 +12,7 @@ namespace CMP1903M_A01_2223
 		public Testing()
 		{
 			Pack pack = new Pack();
+			
 		}
 	}
 }

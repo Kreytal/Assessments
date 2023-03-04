@@ -15,26 +15,29 @@ namespace CMP1903M_A01_2223
             //Initialise the card pack here
             for (int value = 1; value < 14; value++)
 			{
-                for (int suit = 0; suit < length; suit++)
+                for (int suit = 1; suit < 5; suit++)
 			    {
-                    string card = $"value {value} - suit {suit}"
-                    packOfCards.Add(new Card(card))
+                    packOfCards.Add(new Card(value, suit));
 			    }
 			}
-            Console.WriteLine(packOfCards);
+            //foreach (Card card in packOfCards)
+            //{
+            //    card.Show();
+            //}
         }
 
         //public static bool shuffleCardPack(int typeOfShuffle)
-        //{ 
+        //{
+
         //}
         //public static Card deal()
         //{
-            //Deals one card
+        //    //Deals one card
 
         //}
         //public static List<Card> dealCard(int amount)
         //{
-            //Deals the number of cards specified by 'amount'
+        //    //Deals the number of cards specified by 'amount'
         //}
     }
 }
