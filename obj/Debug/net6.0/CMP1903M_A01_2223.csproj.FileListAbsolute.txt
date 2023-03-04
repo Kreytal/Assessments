@@ -1,0 +1,15 @@
+D:\College\University\CMP1903M_A01_2223\bin\Debug\net6.0\CMP1903M_A01_2223.exe
+D:\College\University\CMP1903M_A01_2223\bin\Debug\net6.0\CMP1903M_A01_2223.deps.json
+D:\College\University\CMP1903M_A01_2223\bin\Debug\net6.0\CMP1903M_A01_2223.runtimeconfig.json
+D:\College\University\CMP1903M_A01_2223\bin\Debug\net6.0\CMP1903M_A01_2223.dll
+D:\College\University\CMP1903M_A01_2223\bin\Debug\net6.0\ref\CMP1903M_A01_2223.dll
+D:\College\University\CMP1903M_A01_2223\bin\Debug\net6.0\CMP1903M_A01_2223.pdb
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.csproj.AssemblyReference.cache
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.AssemblyInfoInputs.cache
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.AssemblyInfo.cs
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.csproj.CoreCompileInputs.cache
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.dll
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\ref\CMP1903M_A01_2223.dll
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.pdb
+D:\College\University\CMP1903M_A01_2223\obj\Debug\net6.0\CMP1903M_A01_2223.genruntimeconfig.cache
