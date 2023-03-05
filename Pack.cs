@@ -26,18 +26,18 @@ namespace CMP1903M_A01_2223
             //}
         }
 
-        //public static bool shuffleCardPack(int typeOfShuffle)
-        //{
+        public static bool shuffleCardPack(int typeOfShuffle)
+        {
 
-        //}
-        //public static Card deal()
-        //{
-        //    //Deals one card
+        }
+        public static Card deal()
+        {
+            //Deals one card
 
-        //}
-        //public static List<Card> dealCard(int amount)
-        //{
-        //    //Deals the number of cards specified by 'amount'
-        //}
+        }
+        public static List<Card> dealCard(int amount)
+        {
+            //Deals the number of cards specified by 'amount'
+        }
     }
 }
