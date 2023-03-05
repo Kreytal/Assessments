@@ -8,7 +8,7 @@ namespace CMP1903M_A01_2223
 {
     internal class Pack
     {
-        List<Card> packOfCards = new List<Card>();
+        static List<Card> packOfCards = new List<Card>();
 
         public Pack()
         {
@@ -28,7 +28,29 @@ namespace CMP1903M_A01_2223
 
         public static bool shuffleCardPack(int typeOfShuffle)
         {
+            Random random = new Random();
+            if (typeOfShuffle == 1)
+            {
+                for (int i = packOfCards.Count - 1; i > 0; i--)
+                {
+                    int j = random.Next(i + 1);
+                    var l = packOfCards[i];
+                    packOfCards[i] = packOfCards[j];
+                    packOfCards[j] = l;
+                }
 
+            }
+            else if (typeOfShuffle == 2)
+            {
+                int half = packOfCards.Count / 2;
+
+            }
+            else if (typeOfShuffle == 3)
+            {
+                Console.WriteLine("No shuffle");
+                return true;
+            }
+            return false;
         }
         public static Card deal()
         {
